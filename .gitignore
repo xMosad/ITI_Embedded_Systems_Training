@@ -1,0 +1,6 @@
+*.exe
+*.cproject
+*.project
+*.hex
+*.map
+*.elf
