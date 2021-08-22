@@ -15,8 +15,8 @@ ___
 
 # Additional recommended courses : 
 
-1. Data structure [Link 1 ](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
-2. GitHub [Link 2 ](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+1. [Data structure ](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
+2. [GitHub ](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 
 ___
