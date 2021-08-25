@@ -9,8 +9,10 @@ Training contains : <br />
 6 - ES Tooling <br />
 7 - Real Time Operating Systems <br />
 
-![Alt Text](https://github.com/xMosad/ITI_Embedded_Systems_Training/blob/master/00-Images/01-Header.jpg)
 
+<p align="center">
+  <img width="650" src="00-Images/01-Header.jpg">
+</p>
 ___
 
 # Additional recommended courses : 
