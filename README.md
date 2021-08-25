@@ -13,6 +13,7 @@ Training contains : <br />
 <p align="center">
   <img width="650" src="00-Images/01-Header.jpg">
 </p>
+
 ___
 
 # Additional recommended courses : 
